@@ -17,6 +17,7 @@ public class Milexercicios {
         // TODO code application logic here
         
         //exercício 1 
+        
         System.out.println("Hello World");
         
         //exercício 2
@@ -35,9 +36,9 @@ public class Milexercicios {
         System.out.println(x+y);
         
         //exercício 6
-        int x = 5;
-        int y = 10;
-        int z = x + y;
+        int a = 5;
+        int b = 10;
+        int c = x + y;
         System.out.println(z);
         
         //exercício 7
@@ -316,9 +317,9 @@ System.out.println(cars[i]);
       }
      }
      //exercício 53
-      class MyClass
+      class MyClass*/
 
     }
     
-}
+
 
